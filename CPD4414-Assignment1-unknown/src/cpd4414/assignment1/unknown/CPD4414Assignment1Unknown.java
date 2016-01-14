@@ -15,7 +15,11 @@ public class CPD4414Assignment1Unknown {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here   
     }
+    public static String StringPower(String s, int i){
+            return null;
+        }
+    
     
 }
