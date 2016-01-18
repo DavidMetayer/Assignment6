@@ -17,6 +17,9 @@ public class Assignment1Icansmellyou {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    // Skeleton for StringPower
+    public static String StringPower(String s, int i){
+            return null;
+        }
     
 }
