@@ -20,6 +20,7 @@ public class CPD4414Assignment1Unknown {
     public static String StringPower(String s, int i){
             return null;
         }
+    // Just tyring to fix shit
     
     
 }
